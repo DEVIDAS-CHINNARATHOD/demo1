@@ -25,3 +25,4 @@ Commit #23 | Meme: What's the best thing about a Boolean? -> Even if you're wron
 Commit #24 | Meme: There are 10 types of people in this world... -> Those who understand binary and those who don't
 Commit #25 | Meme: Why dot net developers don't wear glasses? -> Because they see sharp.
 Commit #26 | Meme: Why did the functions stop calling each other? -> Because they had constant arguments.
+Commit #27 | Meme: If you put a million monkeys at a million keyboards, one of them will eventually write a Java program -> the rest of them will write Perl
