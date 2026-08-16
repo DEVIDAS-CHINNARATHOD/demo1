@@ -22,3 +22,4 @@ Commit #20 | Meme: How many React developers does it take to change a lightbulb?
 Commit #21 | Meme: What did the router say to the doctor? -> It hurts when IP.
 Commit #22 | Meme: Why did the programmer quit his job? -> Because he didn't get arrays.
 Commit #23 | Meme: What's the best thing about a Boolean? -> Even if you're wrong, you're only off by a bit.
+Commit #24 | Meme: There are 10 types of people in this world... -> Those who understand binary and those who don't
