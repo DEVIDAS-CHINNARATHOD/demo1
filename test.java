@@ -36,3 +36,4 @@ Commit #34 | Meme: Why did the programmer go to art school? -> He wanted to lear
 Commit #35 | Meme: Why did the developer go broke buying Bitcoin? -> He kept calling it bytecoin and didn't get any.
 Commit #36 | Meme: How do you generate a random string? -> Put a Windows user in front of Vim and tell them to exit.
 Commit #37 | Meme: Why did the developer quit his job? -> Because he didn't get arrays.
+Commit #38 | Meme: Why did the programmer bring a ladder to work? -> They heard the code needed to be debugged from a higher level.
