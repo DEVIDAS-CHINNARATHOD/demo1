@@ -11,3 +11,4 @@ Commit #9 | Meme: Why did the developer go broke buying Bitcoin? -> He kept call
 Commit #10 | Meme: Why did the functions stop calling each other? -> Because they had constant arguments.
 Commit #11 | Meme: Why was the JavaScript developer sad? -> He didn't know how to null his feelings.
 Commit #12 | Meme: Why did the programmer bring a ladder to work? -> They heard the code needed to be debugged from a higher level.
+Commit #13 | Meme: There are 10 types of people in this world... -> Those who understand binary and those who don't
