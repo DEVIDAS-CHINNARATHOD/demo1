@@ -14,3 +14,4 @@ Commit #12 | Meme: Why did the programmer bring a ladder to work? -> They heard 
 Commit #13 | Meme: There are 10 types of people in this world... -> Those who understand binary and those who don't
 Commit #14 | Meme: Why did the private classes break up? -> Because they never saw each other.
 Commit #15 | Meme: There are 10 types of people in this world... -> Those who understand binary and those who don't
+Commit #16 | Meme: Why do Java programmers wear glasses? -> Because they don't C#.
