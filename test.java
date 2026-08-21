@@ -20,3 +20,4 @@ Commit #18 | Meme: If you put a million monkeys at a million keyboards, one of t
 Commit #19 | Meme: An IPv6 packet is walking out of the house. -> He goes nowhere.
 Commit #20 | Meme: How many React developers does it take to change a lightbulb? -> None, they prefer dark mode.
 Commit #21 | Meme: What did the router say to the doctor? -> It hurts when IP.
+Commit #22 | Meme: Why did the programmer quit his job? -> Because he didn't get arrays.
