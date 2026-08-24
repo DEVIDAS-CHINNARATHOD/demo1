@@ -4,3 +4,4 @@ Commit #2 | Meme: I was gonna tell you a joke about UDP... -> ...but you might n
 Commit #3 | Meme: A DHCP packet walks into a bar and asks for a beer. -> Bartender says, "here, but I’ll need that back in an hour!"
 Commit #4 | Meme: Where do programmers like to hangout? -> The Foo Bar.
 Commit #5 | Meme: Why do programmers prefer dark chocolate? -> Because it's bitter like their code.
+Commit #6 | Meme: Why did the programmer quit his job? -> Because he didn't get arrays.
