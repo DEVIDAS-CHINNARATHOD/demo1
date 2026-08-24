@@ -35,3 +35,4 @@ Commit #33 | Meme: An IPv6 packet is walking out of the house. -> He goes nowher
 Commit #34 | Meme: Why did the programmer go to art school? -> He wanted to learn how to code outside the box.
 Commit #35 | Meme: Why did the developer go broke buying Bitcoin? -> He kept calling it bytecoin and didn't get any.
 Commit #36 | Meme: How do you generate a random string? -> Put a Windows user in front of Vim and tell them to exit.
+Commit #37 | Meme: Why did the developer quit his job? -> Because he didn't get arrays.
