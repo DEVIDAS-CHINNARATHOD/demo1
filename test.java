@@ -24,3 +24,4 @@ Commit #22 | Meme: Why did the programmer quit his job? -> Because he didn't get
 Commit #23 | Meme: What's the best thing about a Boolean? -> Even if you're wrong, you're only off by a bit.
 Commit #24 | Meme: There are 10 types of people in this world... -> Those who understand binary and those who don't
 Commit #25 | Meme: Why dot net developers don't wear glasses? -> Because they see sharp.
+Commit #26 | Meme: Why did the functions stop calling each other? -> Because they had constant arguments.
