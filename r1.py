@@ -3,3 +3,4 @@ Commit #1 | Meme: Why did the developer go broke buying Bitcoin? -> He kept call
 Commit #2 | Meme: Knock-knock. -> A race condition. Who is there?
 Commit #3 | Meme: Why did the programmer bring a broom to work? -> To clean up all the bugs.
 Commit #4 | Meme: A programmer puts two glasses on his bedside table before going to sleep. -> A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+Commit #5 | Meme: Why did the programmer quit his job? -> Because he didn't get arrays.
