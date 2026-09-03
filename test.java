@@ -27,3 +27,4 @@ Commit #25 | Meme: Why dot net developers don't wear glasses? -> Because they se
 Commit #26 | Meme: Why did the functions stop calling each other? -> Because they had constant arguments.
 Commit #27 | Meme: If you put a million monkeys at a million keyboards, one of them will eventually write a Java program -> the rest of them will write Perl
 Commit #28 | Meme: Why did the functions stop calling each other? -> Because they had constant arguments.
+Commit #29 | Meme: Why did the programmer go to art school? -> He wanted to learn how to code outside the box.
