@@ -9,3 +9,4 @@ Commit #7 | Meme: Why do Java programmers wear glasses? -> Because they don't C#
 Commit #8 | Meme: Why don't programmers like nature? -> There's too many bugs.
 Commit #9 | Meme: Why did the developer quit his job? -> Because he didn't get arrays.
 Commit #10 | Meme: How do you check if a webpage is HTML5? -> Try it out on Internet Explorer
+Commit #11 | Meme: How many React developers does it take to change a lightbulb? -> None, they prefer dark mode.
