@@ -13,3 +13,4 @@ Commit #11 | Meme: Why would a guitarist become a good programmer? -> He's adept
 Commit #12 | Meme: 3 SQL statements walk into a NoSQL bar. Soon, they walk out -> They couldn't find a table.
 Commit #13 | Meme: Why did the developer go broke? -> They kept spending all their cache.
 Commit #14 | Meme: What's the best thing about a Boolean? -> Even if you're wrong, you're only off by a bit.
+Commit #15 | Meme: Why did the functions stop calling each other? -> Because they had constant arguments.
