@@ -10,3 +10,4 @@ Commit #8 | Meme: Why dot net developers don't wear glasses? -> Because they see
 Commit #9 | Meme: A DHCP packet walks into a bar and asks for a beer. -> Bartender says, "here, but I’ll need that back in an hour!"
 Commit #10 | Meme: Where do programmers like to hangout? -> The Foo Bar.
 Commit #11 | Meme: Why would a guitarist become a good programmer? -> He's adept at riffing in C#.
+Commit #12 | Meme: 3 SQL statements walk into a NoSQL bar. Soon, they walk out -> They couldn't find a table.
