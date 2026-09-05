@@ -1,3 +1,4 @@
 GitBloom
 Commit #1 | Meme: Why do C# and Java developers keep breaking their keyboards? -> Because they use a strongly typed language.
 Commit #2 | Meme: Why don't programmers like nature? -> There's too many bugs.
+Commit #3 | Meme: There are 10 types of people in this world... -> Those who understand binary and those who don't
