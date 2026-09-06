@@ -9,3 +9,4 @@ Commit #7 | Meme: What goes after USA? -> USB.
 Commit #8 | Meme: Why dot net developers don't wear glasses? -> Because they see sharp.
 Commit #9 | Meme: A DHCP packet walks into a bar and asks for a beer. -> Bartender says, "here, but I’ll need that back in an hour!"
 Commit #10 | Meme: Where do programmers like to hangout? -> The Foo Bar.
+Commit #11 | Meme: Why would a guitarist become a good programmer? -> He's adept at riffing in C#.
