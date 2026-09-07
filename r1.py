@@ -6,3 +6,4 @@ Commit #4 | Meme: A programmer puts two glasses on his bedside table before goin
 Commit #5 | Meme: Why did the programmer quit his job? -> Because he didn't get arrays.
 Commit #6 | Meme: A SQL query walks into a bar, walks up to two tables and asks... -> 'Can I join you?'
 Commit #7 | Meme: What goes after USA? -> USB.
+Commit #8 | Meme: Why dot net developers don't wear glasses? -> Because they see sharp.
