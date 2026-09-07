@@ -12,3 +12,4 @@ Commit #10 | Meme: Where do programmers like to hangout? -> The Foo Bar.
 Commit #11 | Meme: Why would a guitarist become a good programmer? -> He's adept at riffing in C#.
 Commit #12 | Meme: 3 SQL statements walk into a NoSQL bar. Soon, they walk out -> They couldn't find a table.
 Commit #13 | Meme: Why did the developer go broke? -> They kept spending all their cache.
+Commit #14 | Meme: What's the best thing about a Boolean? -> Even if you're wrong, you're only off by a bit.
