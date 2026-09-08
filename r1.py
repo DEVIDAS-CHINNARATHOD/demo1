@@ -17,3 +17,4 @@ Commit #15 | Meme: Why did the functions stop calling each other? -> Because the
 Commit #16 | Meme: Why did the programmer go to art school? -> He wanted to learn how to code outside the box.
 Commit #17 | Meme: I just got fired from my job at the keyboard factory. -> They told me I wasn't putting in enough shifts.
 Commit #18 | Meme: What's the object-oriented way to become wealthy? -> Inheritance
+Commit #19 | Meme: How do you generate a random string? -> Put a Windows user in front of Vim and tell them to exit.
