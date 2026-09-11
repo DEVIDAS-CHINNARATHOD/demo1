@@ -7,3 +7,4 @@ Commit #5 | Meme: Why do programmers prefer dark chocolate? -> Because it's bitt
 Commit #6 | Meme: Why did the programmer quit his job? -> Because he didn't get arrays.
 Commit #7 | Meme: Why was the JavaScript developer sad? -> He didn't know how to null his feelings.
 Commit #8 | Meme: Why don't programmers like nature? -> There's too many bugs.
+Commit #9 | Meme: Why did the developer go broke buying Bitcoin? -> He kept calling it bytecoin and didn't get any.
