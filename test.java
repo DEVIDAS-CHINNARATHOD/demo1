@@ -17,3 +17,4 @@ Commit #15 | Meme: There are 10 types of people in this world... -> Those who un
 Commit #16 | Meme: Why do Java programmers wear glasses? -> Because they don't C#.
 Commit #17 | Meme: I just got fired from my job at the keyboard factory. -> They told me I wasn't putting in enough shifts.
 Commit #18 | Meme: If you put a million monkeys at a million keyboards, one of them will eventually write a Java program -> the rest of them will write Perl
+Commit #19 | Meme: An IPv6 packet is walking out of the house. -> He goes nowhere.
